@@ -38,7 +38,7 @@ Unofficial List of Turkish CCIEs (Cisco Certified Internetwork Experts)
 | [Halit ÜSTÜNDAĞ](https://www.linkedin.com/profile/view?id=48471813) | Big Switch Networks | US |  |
 | [Hilmi Kürşad DEMİRAY](https://www.linkedin.com/profile/view?id=61234254) | Palo Alto Networks | Turkey | 12719 |
 | İbrahim BAÇ | Citigroup | US | 4452 |
-| [İlker TEMİR](https://www.linkedin.com/in/ilkertemir) | N/A | United States | 8312 |
+| [İlker TEMİR](https://www.linkedin.com/in/ilkertemir) | N/A | United States | 8312 Emeritus |
 | İlyas ÇELİK | BT Eğitim | Turkey | 22199 |
 | İsmail Erhan KURT | Türk Telekom | Turkey | 11195 |
 | Kemal Haydar YILDIRIM | Atlastel | Turkey | 17474 |
