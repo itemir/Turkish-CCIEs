@@ -273,6 +273,7 @@ Unofficial List of Turkish CCIEs (Cisco Certified Internetwork Experts)
 | [Oruç AKPINAR](https://www.linkedin.com/in/orucakpinar) | Telcoset | Turkey | 62955 |
 | Erkan ERCAN | Havelsan | Turkey | 65386 |
 | [Mahmut AYDIN](https://www.linkedin.com/in/mahmut-ayd%C4%B1n-60093472/) | Netsys Bilisim | Turkey | 63405 |
+| [Atlas BORAP](https://www.linkedin.com/in/atlasborap/) | Intersys Teknoloji | Turkey | 67754 |
 
 This list is informational only. It is not authoritative and may be incomplete or incorrect. Make sure to visit the [Cisco CCIE](http://www.cisco.com/go/ccie) page for authoritative information
 
