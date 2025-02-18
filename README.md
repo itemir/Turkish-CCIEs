@@ -227,7 +227,7 @@ Unofficial List of Turkish CCIEs (Cisco Certified Internetwork Experts)
 | [Mahmut TOPRAK](https://www.linkedin.com/in/mahmuttoprak) | Kuveyt Türk Participation Bank | Turkey | 54533 |
 | Burak Bahadır BİLGİN | NETSYS Bilişim | Turkey | 54548 |
 | [Semih YİĞİT](https://www.linkedin.com/in/semih-yi%C4%9Fit-a596605/) | THY | Turkey | 55409 |
-| Erkan BAL | IT Expert | Turkey | 55431 |
+| [Erkan BAL](https://www.linkedin.com/in/erkan-bal/) | Borsa İstanbul | Turkey | 55431 |
 | [Hasan ONAT](https://www.linkedin.com/in/hasan-onat-b6b1411b/) | Vodafone |  "Turkey" | 55910 |
 | [Murat ÖZ](https://www.linkedin.com/in/murat-%C3%B6z-18585740/) | Netaş | Turkey | 55764 |
 | Ozan KÜÇÜK | BT Eğitim | Turkey | 55562 |
